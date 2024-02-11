@@ -32,7 +32,7 @@
     * 1.3) กดปุ่ม login
       
 ![auth](https://media.canva.com/1/image-resize/1/2400_1560_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9MMjZuZy9NQUY3NTBMMjZuZy8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAP3zsh2ZFmMOZrZPpNZxFVptdsZWnBNyv8KBSdTlO2pQ&exp=1707699774&x-canva-quality=screen_3x&csig=AAAAAAAAAAAAAAAAAAAAAP0tOenhMnuID9buKMiKzZBQL4V4kgpvr1JLiSDeUWaG)
-
+*
   * 2.) Register
     * 2.1) กรอก email
     * 2.2) กรอก password
@@ -47,3 +47,6 @@
     * 3.2) กดเข้าไปใน content page แล้วกดเล่น
 
 ![viewcategory](https://media.canva.com/1/image-resize/1/960_539_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS9qQXhZby9NQUY3NkJqQXhZby8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAACl8fzn6Pt9Y5c51xJ7AqgUI7jED3ikM29SW2tMdZDFf&exp=1707700556&x-canva-quality=screen_2x&csig=AAAAAAAAAAAAAAAAAAAAAG28a5Y8vb5yZhf7wQvKvIeTNrZMCvtpjUmnpKr4U4F2)
+
+![genre](https://media.canva.com/1/image-resize/1/2400_1560_100_PNG_F/czM6Ly9tZWRpYS1wcml2YXRlLmNhbnZhLmNvbS8tNktpWS9NQUY3NTAtNktpWS8xL3AucG5n?osig=AAAAAAAAAAAAAAAAAAAAAK0VZZxeNEdKTRw5Rwlc4wuvtLzMClV9SK3iibhV0yFp&exp=1707699628&x-canva-quality=screen_3x&csig=AAAAAAAAAAAAAAAAAAAAAGazfgWRQda7WodPpxK4yAvPBjRNaHQTsOyoZ1qon514)
+
