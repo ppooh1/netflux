@@ -27,6 +27,6 @@
 ### Use Case
 * User Authentication
   1. Login
-      1.1. กรอก email
-      1.2. กรอก password
-      1.3. กดปุ่ม login
+     1. กรอก email
+     2. กรอก password
+     3. กดปุ่ม login
