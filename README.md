@@ -15,11 +15,11 @@
 ### หลังบ้าน
 * Login Admin
 * Add Category
- * Add/Edit Movie
-  * Tags
-  * Genre
-  * Movie name
-  * Start time (Ex. 1:30) เพื่อใช้ Skip intro
-  * Writer/Director
-  * Cast
+  * Add/Edit Movie
+   * Tags
+   * Genre
+   * Movie name
+   * Start time (Ex. 1:30) เพื่อใช้ Skip intro
+   * Writer/Director
+   * Cast
 * User Control (Ban/Unban/Change info/ Check information)
