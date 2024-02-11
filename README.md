@@ -25,7 +25,7 @@
 * User Control (Ban/Unban/Change info/ Check information)
 
 ### Use Case
-* User Authentication
+1. User Authentication
   1. Login
      1. กรอก email
      2. กรอก password
