@@ -26,7 +26,7 @@
 
 ### Use Case
 * User Authentication
-  1. Login 
+  1.Login \
      กรอก email
      กรอก password
      กดปุ่ม login
